@@ -26,4 +26,4 @@ Talk to the bot, on the web, using the link below:
 # Video
 
 <p>   
-<a href="https://youtu.be/TrrQ6flF6Vs"><img src="https://github.com/hashirabdulbasheer/rasa-arabic-demo-bot/raw/main/images/youtube.png" width="400" target="_blank"></a>
+<a href="https://youtu.be/TrrQ6flF6Vs" target="_blank"><img src="https://github.com/hashirabdulbasheer/rasa-arabic-demo-bot/raw/main/images/youtube.png" width="400"></a>
