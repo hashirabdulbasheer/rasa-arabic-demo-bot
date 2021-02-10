@@ -1,4 +1,4 @@
-![Rasa Arabic Banner](https://github.com/hashirabdulbasheer/rasa-arabic-demo-bot/raw/main/images/banner.png)
+![Rasa Arabic Banner](https://github.com/hashirabdulbasheer/my_assets/raw/master/rasa_arabic_demo_bot/banner.png)
 
 # Rasa Arabic Demo Bot
 
@@ -13,7 +13,7 @@ Use the following links to talk to the bot live:
 Talk to the bot through Telegram messenger. Scan the QR code or use the Telegram link below.
 
 <p>   
-<img src="https://github.com/hashirabdulbasheer/rasa-arabic-demo-bot/raw/main/images/telegram-qr.png" width="100">
+<img src="https://github.com/hashirabdulbasheer/my_assets/raw/master/rasa_arabic_demo_bot/telegram-qr.png" width="100">
 
 [https://t.me/rasa_arabic_demo_bot](https://t.me/rasa_arabic_demo_bot)
 
@@ -26,4 +26,4 @@ Talk to the bot, on the web, using the link below:
 # Video
 
 <p>   
-<a href="https://youtu.be/TrrQ6flF6Vs" target="_blank"><img src="https://github.com/hashirabdulbasheer/rasa-arabic-demo-bot/raw/main/images/youtube.png" width="400"></a>
+<a href="https://youtu.be/TrrQ6flF6Vs" target="_blank"><img src="https://github.com/hashirabdulbasheer/my_assets/raw/master/rasa_arabic_demo_bot/youtube.png" width="400"></a>
